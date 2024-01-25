@@ -8,7 +8,7 @@ with the maximum single nesting degree and unpacks them in the
 same folder.
 """
 
-current_dir = r"\\gksfls0003.ger.corp.intel.com\AudioLabTeam\DataSets\_Public\_pozgax\spet\athena-portal-20-devices-from-jie"
+current_dir = r"path/to/working/directory"
 if not os.path.exists(current_dir):
     raise ValueError(ca.RED + f"[ERROR] File {current_dir} do not exist.")
 
