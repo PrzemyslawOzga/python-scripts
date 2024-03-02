@@ -3,7 +3,7 @@ import zipfile
 
 from colorama import Fore as CA
 
-# ---------------------------- PREPARATION --------------------------------- NEW
+# ---------------------------- PREPARATION ---------------------------------
 # Check the flag to true if the file is to be deleted after unpacking
 remove_after_unpacking = False
 
